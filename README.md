@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BSc (Hons) Computer Systems Engineering (IT) student at ISMT Butwal<br><br>💻 Passionate about Python, C#, JavaScript, HTML, and CSS<br><br>🚀 “Vibe Coder” who enjoys building interactive and tech-driven projects<br><br>📚 Certified in AI, Cybersecurity, Networking, and System Fundamentals<br><br>🔍 Constant learner exploring systems, automation, and modern technologies
+🎓 BSc (Hons) Computer Systems Engineering (IT) student at ISMT Butwal<br><br>🔐 Passionate about Cybersecurity and secure system design <br><br>💻 Skilled in Python, C#, JavaScript, HTML, and CSS <br><br>📚 Certified in AI, Cybersecurity, Networking, and System Fundamentals<br><br>🚀 “Vibe Coder” who enjoys building interactive, tech-driven projects and continuously learning
 
 
 ## 🌐 Socials:
